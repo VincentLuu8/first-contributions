@@ -199,6 +199,7 @@
 - [Myles](https://github.com/Smyles20)
 - [Tanishqua-Simform](https://github.com/Tanishqua-Simform): Leaving my marks here on 16 Jan, 2025
 - [Zülal](https://github.com/zulalc)
+- [Vincent Luu](https://github.com/VincentLuu8)
 - [Scorpio](https://github.com/Black-Scorpio)
 - [FrontendBy-GJ](https://github.com/FrontendBy-GJ) : First contribution!
 - [Sunny-Saurya](https://github.com/Sunny-Saurya)
